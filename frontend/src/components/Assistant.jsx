@@ -23,7 +23,7 @@ function Assistant() {
             setLoading(true);
 
             const response = await fetch(
-                "http://localhost:8000/api/chat",
+                `${import.meta.env.VITE_API_URL}/api/chat`,
                 {
                     method: "POST",
                     headers: {
