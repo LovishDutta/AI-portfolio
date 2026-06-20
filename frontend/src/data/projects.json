@@ -1,0 +1,145 @@
+[
+{
+"id": "ai-portfolio-assistant",
+"title": "AI Portfolio Assistant",
+"category": "Generative AI",
+"description": "A production-style portfolio website powered by Retrieval-Augmented Generation (RAG) that can answer natural language questions about my projects, skills, achievements, positions of responsibility, and competitive programming profiles.",
+"techStack": [
+"React",
+"Node.js",
+"Express.js",
+"Gemini API",
+"Cohere Embeddings",
+"ChromaDB Cloud",
+"LangChain JS",
+"Tailwind CSS"
+],
+"highlights": [
+"Built an end-to-end RAG pipeline using semantic chunking, embeddings, vector search, and grounded response generation.",
+"Integrated ChromaDB Cloud for vector storage and semantic retrieval.",
+"Implemented source-aware responses to reduce hallucinations and improve answer reliability.",
+"Designed a modern portfolio experience combining traditional sections with an AI assistant and coding profile dashboard."
+],
+"githubLink": "https://github.com/LovishDutta/AI-portfolio",
+"liveLink": "https://lovish2006-chest-xray.hf.space"
+},
+
+{
+"id": "pneumonia-detection",
+"title": "Deep Learning-Based Pneumonia Detection System",
+"category": "Machine Learning",
+"description": "A medical image classification system that detects pneumonia from chest X-ray images using transfer learning and deep neural networks.",
+"techStack": [
+"Python",
+"TensorFlow",
+"DenseNet121",
+"NumPy",
+"Pillow",
+"Streamlit",
+"Hugging Face"
+],
+"highlights": [
+"Achieved 91.82% classification accuracy using DenseNet121 transfer learning.",
+"Implemented Grad-CAM visualizations to improve model interpretability.",
+"Developed a Streamlit web application for real-time image prediction.",
+"Deployed the solution on Hugging Face Spaces for public access."
+],
+"githubLink": "https://github.com/LovishDutta/Chest-Xray",
+"liveLink": "https://lovish2006-chest-xray.hf.space"
+},
+
+{
+"id": "placement-portal",
+"title": "Placement Portal",
+"category": "Full Stack Development",
+"description": "A placement management platform designed to streamline internship and placement activities for students, recruiters, and administrators.",
+"techStack": [
+"React",
+"Node.js",
+"Express.js",
+"MongoDB",
+"JWT",
+"REST APIs"
+],
+"highlights": [
+"Implemented role-based workflows for students and administrators.",
+"Built secure authentication and authorization using JWT.",
+"Developed CRUD operations for job postings, applications, and user profiles.",
+"Designed RESTful APIs and integrated them with a responsive frontend."
+],
+"githubLink": "https://github.com/LovishDutta/Placement-Portal",
+"liveLink": "https://placement-portal-indol.vercel.app/"
+},
+
+{
+"id": "tic-tac-toe",
+"title": "Real-Time Multiplayer Tic Tac Toe",
+"category": "Backend Systems",
+"description": "A multiplayer game platform that enables users to create private rooms and play Tic Tac Toe in real time through WebSocket communication.",
+"techStack": [
+"Node.js",
+"Express.js",
+"MongoDB",
+"Socket.IO",
+"JWT",
+"HTML",
+"CSS",
+"JavaScript"
+],
+"highlights": [
+"Implemented real-time gameplay using Socket.IO.",
+"Built secure authentication using JWT and cookies.",
+"Designed room creation, room joining, and turn-management systems.",
+"Handled game state synchronization, winner detection, and draw conditions on the server."
+],
+"githubLink": "https://github.com/LovishDutta/Tic-tac-toe",
+"liveLink": "https://tic-tac-toe-two-delta-47.vercel.app/home.html"
+},
+
+{
+"id": "sms-spam-classifier",
+"title": "SMS Spam Classifier",
+"category": "Natural Language Processing",
+"description": "An NLP-based text classification system that predicts whether an SMS message is spam or legitimate.",
+"techStack": [
+"Python",
+"Scikit-Learn",
+"NumPy",
+"Pandas",
+"Streamlit",
+"TF-IDF"
+],
+"highlights": [
+"Performed text preprocessing and feature extraction using TF-IDF vectorization.",
+"Trained and evaluated machine learning models for spam detection.",
+"Built an efficient preprocessing pipeline for handling raw SMS data.",
+"Integrated the model into a Streamlit application for real-time predictions."
+],
+"githubLink": "https://github.com/LovishDutta/sms-spam-classifier",
+"liveLink": ""
+},
+
+{
+"id": "multi-persona-chatbot",
+"title": "Multi-Persona AI Chatbot",
+"category": "Natural Language Processing",
+"description": "A conversational AI system capable of mimicking the speaking styles of different public personalities through fine-tuned language models.",
+"techStack": [
+"Python",
+"PyTorch",
+"GPT-2 Medium",
+"Transformers",
+"Pandas",
+"Streamlit",
+"Google Colab"
+],
+"highlights": [
+"Fine-tuned GPT-2 Medium on curated personality-specific datasets.",
+"Collected and processed conversational transcripts to create custom training data.",
+"Implemented causal language modeling using Hugging Face Transformers.",
+"Built an interactive interface for persona-based conversations."
+],
+"githubLink": "https://github.com/LovishDutta/ai-personality-chatbot",
+"liveLink": ""
+}
+]

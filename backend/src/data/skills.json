@@ -1,0 +1,57 @@
+{
+  "languages": [
+    "C",
+    "C++",
+    "Python",
+    "JavaScript",
+    "Java"
+  ],
+  "frontend": [
+    "React",
+    "React Router",
+    "HTML",
+    "CSS",
+    "Tailwind CSS"
+  ],
+  "backend": [
+    "Node.js",
+    "Express.js",
+    "REST APIs",
+    "JWT Authentication",
+    "Socket.IO"
+  ],
+  "databases": [
+    "MongoDB",
+    "MySQL",
+    "Firebase"
+  ],
+  "ai_ml": [
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-Learn",
+    "OpenCV",
+    "NLP",
+    "DenseNet121",
+    "Transfer Learning",
+    "RAG",
+    "LangChain"
+  ],
+  "tools": [
+    "Git",
+    "GitHub",
+    "Docker",
+    "Postman",
+    "Render",
+    "Vercel",
+    "Hugging Face"
+  ],
+  "coreSubjects": [
+    "Data Structures and Algorithms",
+    "Object Oriented Programming",
+    "DBMS",
+    "Operating Systems",
+    "Probability and Statistics",
+    "Linear Algebra",
+    "Computer Networks"
+  ]
+}

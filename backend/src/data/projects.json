@@ -1,0 +1,131 @@
+[
+  {
+    "id": "pneumonia-detection",
+    "title": "Deep Learning-Based Pneumonia Detection System",
+    "category": "Machine Learning",
+    "duration": "Jan 2026 - Feb 2026",
+    "description": "Built a deep learning-based medical image classification system for detecting pneumonia from chest X-rays.",
+    "problem": "Manual interpretation of X-ray scans can be time consuming and prone to errors.",
+    "solution": "Developed a DenseNet121 transfer learning pipeline capable of classifying chest X-rays with high accuracy and visual explanations.",
+    "techStack": [
+      "Python",
+      "TensorFlow",
+      "DenseNet121",
+      "NumPy",
+      "Pillow",
+      "Streamlit",
+      "Hugging Face"
+    ],
+    "features": [
+      "91.82% classification accuracy",
+      "Grad-CAM visualization",
+      "Real-time prediction interface",
+      "Confidence score generation",
+      "Deployment on Hugging Face Spaces"
+    ]
+  },
+  {
+    "id": "multi-persona-chatbot",
+    "title": "Multi-Persona AI Chatbot",
+    "category": "Natural Language Processing",
+    "duration": "Dec 2025 - Jan 2026",
+    "description": "Fine-tuned GPT-2 Medium to simulate multiple public personalities.",
+    "problem": "Most chatbots generate generic responses and lack personality-specific behavior.",
+    "solution": "Created a multi-persona conversational model using curated interview transcripts and custom training datasets.",
+    "techStack": [
+      "Python",
+      "PyTorch",
+      "GPT-2",
+      "Transformers",
+      "Pandas",
+      "Streamlit",
+      "Google Colab"
+    ],
+    "features": [
+      "1100+ curated Q&A pairs",
+      "GPT-2 Medium fine-tuning",
+      "Persona switching",
+      "Custom dataset preparation",
+      "Interactive web interface"
+    ]
+  },
+  {
+    "id": "placement-portal",
+    "title": "Smart Placement Portal",
+    "category": "Full Stack",
+    "duration": "Dec 2025 - Jan 2026",
+    "description": "Full-stack placement management platform.",
+    "techStack": [
+      "React",
+      "Tailwind CSS",
+      "Node.js",
+      "Express.js",
+      "MongoDB",
+      "JWT"
+    ],
+    "features": [
+      "One-time profile creation",
+      "Internship applications",
+      "Eligibility filtering",
+      "Resume management",
+      "Role-based dashboards"
+    ]
+  },
+  {
+    "id": "tic-tac-toe",
+    "title": "Multiplayer Tic-Tac-Toe",
+    "category": "Backend Systems",
+    "description": "Real-time multiplayer game using Socket.IO.",
+    "techStack": [
+      "Node.js",
+      "Express",
+      "Socket.IO",
+      "MongoDB",
+      "JWT"
+    ],
+    "features": [
+      "Room creation",
+      "Protected game sessions",
+      "Real-time synchronization",
+      "WebSocket communication",
+      "Game state management"
+    ]
+  },
+  {
+    "id": "sms-spam-classifier",
+    "title": "SMS Spam Classifier",
+    "category": "Machine Learning",
+    "description": "Text classification system for detecting spam messages.",
+    "techStack": [
+      "Python",
+      "Scikit-Learn",
+      "NLP"
+    ],
+    "features": [
+      "Text preprocessing",
+      "TF-IDF vectorization",
+      "Spam detection",
+      "Model evaluation"
+    ]
+  },
+  {
+    "id": "ai-portfolio-assistant",
+    "title": "AI Portfolio Assistant",
+    "category": "Generative AI",
+    "description": "RAG-powered portfolio website capable of answering questions about projects, skills, achievements, and coding profiles.",
+    "techStack": [
+      "React",
+      "Node.js",
+      "LangChain",
+      "ChromaDB",
+      "Gemini"
+    ],
+    "features": [
+      "Semantic search",
+      "Source citations",
+      "Portfolio Q&A",
+      "Competitive programming integration",
+      "Grounded responses"
+    ]
+  }
+]

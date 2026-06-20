@@ -1,0 +1,17 @@
+{
+  "name": "Lovish Dutta",
+  "title": "Software Engineering and Machine Learning Enthusiast",
+  "college": "National Institute of Technology Kurukshetra",
+  "degree": "Bachelor of Technology in Computer Science and Engineering",
+  "graduationYear": 2028,
+  "cgpa": 9.55,
+  "location": "Kurukshetra, Haryana, India",
+  "summary": "Computer Science undergraduate at NIT Kurukshetra with strong problem-solving skills and a passion for backend engineering, competitive programming, machine learning, and AI systems. Experienced in building full-stack web applications, deep learning projects, and retrieval-augmented generation systems.",
+  "interests": [
+    "Backend Development",
+    "Software Engineering",
+    "Machine Learning",
+    "Artificial Intelligence",
+    "Competitive Programming"
+  ]
+}
