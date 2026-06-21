@@ -19,11 +19,12 @@ async function handleChat(req, res) {
             sources: result.sources,
         });
     } catch (error) {
-        console.error(error);
+         console.error("CHAT ERROR:", error);
 
-        return res.status(500).json({
-            success: false,
-            message: "Internal Server Error",
+    return res.status(500).json({
+        success:false,
+        message:error.message,
+        stack:error.stack
         });
     }
 }
